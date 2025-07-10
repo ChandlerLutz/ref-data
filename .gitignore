@@ -1,0 +1,7 @@
+.Rproj.user
+.Rhistory
+*~
+*.#-emacs*
+*emacs*
+*.el
+.DS_Store
