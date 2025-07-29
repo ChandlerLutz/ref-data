@@ -1,0 +1,9 @@
+%pip install numpy_financial
+%pip install plotnine==0.12.1
+%pip install pandas
+%pip install statsmodels
+
+import numpy_financial as npf
+import pandas as pd
+import plotnine as p9
+import statsmodels.api as sm
